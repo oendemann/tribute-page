@@ -1,0 +1,74 @@
+* {
+  scroll-behavior: smooth;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+
+main {
+  background-color: #B19D7C;
+  font-family: Calibri, Verdana;
+  font-size: 20px;
+}
+
+header {
+  background: linear-gradient(
+    #B19D7C 5%,
+    #9F8760 7%,
+    #836F4E 15%,
+    #66563D 85% ,
+    #836F4E 90%,
+    #9F8760 95%,
+    #B19D7C 100%);
+  padding: 5px;
+  color: #DBDBDB;
+  margin-bottom: 10px;
+  text-align: center;
+  min-width: 500px;
+}
+
+body {
+  margin: 0;
+}
+
+p {
+  text-align: center;
+  font-weight: 600;
+  font-style: italic;
+  margin-top: 6px;
+  min-width: 500px;
+}
+
+div[id="tribute-info"] {
+  background: linear-gradient(
+    #B19D7C 5%,
+    #9F8760 7%,
+    #836F4E 10%,
+    #66563D 96% ,
+    #836F4E 97%,
+    #9F8760 98%,
+    #B19D7C 100%);
+  padding: 25px 10px 5px 10px;
+  margin-top: -35px;
+  margin-bottom: -10px;
+  min-width: 500px;
+  color: #DBDBDB;
+}
+
+h2 {
+  margin-bottom: -13px;
+}
+
+.underlined {
+  text-decoration: underline;
+  text-decoration-color: #563D66;
+  text-decoration-thickness: 5px;
+  color: #DBDBDB;
+}
+
+a {
+  color: #2E3748;
+}
