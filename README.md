@@ -2,7 +2,7 @@
 
 A tribute page with a snippet of information on the timeline of the Freedom House Ambulance Service.
 
-**Live-Demo** [https://oendemann.github.io/tribute-page/]
+**Live-Demo:** [https://oendemann.github.io/tribute-page/]
 
 ---
 
